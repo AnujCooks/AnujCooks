@@ -76,7 +76,7 @@
     <a href="https://youtube.com/@anujthakur8077"><img src="https://img.shields.io/badge/YouTube-YouTube-c32136" /></a>&emsp;
     <a href="https://anujcooks.github.io/About-Me/"><img src="https://img.shields.io/website?url=https%3A%2F%2Faoudumbar.netlify.app%2F" /></a>&emsp;
     <!-- visitor -->
-    <img src="/" alt="Visitor Count" />&emsp;
+    <img src="https://komarev.com/ghpvc/?username=Aoudumber-Bade&label=Views&color=orange&style=flat" alt="Visitor Count" />&emsp;
     <!-- wakatime -->    
     <a href="/"><img src="https://wakatime.com/badge/user/018ea536-beca-4143-a136-4ca1c4ff3898.svg" /></a>
 
