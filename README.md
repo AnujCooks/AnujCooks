@@ -107,8 +107,6 @@
 
 ### 🏢 Work Experience
 
-<img align="right" width="88" src=/" />
-
 - [My Personal Portfolio](https://anujcooks.github.io/About-Me/)    &nbsp;&nbsp; &nbsp; &nbsp;     📌 2025
   - Full Stack Web Dev
   - Techstack: MERN
