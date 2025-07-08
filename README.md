@@ -109,25 +109,12 @@
 
 <img align="right" width="88" src="https://i.ibb.co/CpvpVfGP/shot-Easy-screencapture-electronshub-lovestoblog-com.png" />
 
-- [ElectronsHUB - College Project.](https://electronshub.lovestoblog.com/)  &nbsp;&nbsp; &nbsp; &nbsp;    📌 2024
-  - Position: Full Stack Developer
-  - Responsibilities: development and maintenance
-  - TechStack: HTML, CSS, JS, PHP, MySQL
-
-<img align="right" width="88" src="https://i.ibb.co/fd8kVxQz/2shoteasy.png" />
-
 - [My Personal Portfolio](https://anujcooks.github.io/About-Me/)    &nbsp;&nbsp; &nbsp; &nbsp;     📌 2025
   - Position: Mern Developer
   - Responsibilities: Various tasks
   - Techstack: MERN
 
 <img align="right" width="88" src="https://i.ibb.co/fY4ryhZW/newsymo.png" />
-
-- [Freelancing Project - Symo Dance Academy](https://www.symo.wauze.com/)    &nbsp;&nbsp; &nbsp; &nbsp;    📌 2023
-  - Position: Website Developer
-  - Responsibilities: Creating a fully responsive website with backend and frontend
-  - Techstack: HTML, CSS, JS, PHP, MYSQL
-
 
 </td></tr>
 
