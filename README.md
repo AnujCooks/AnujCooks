@@ -107,14 +107,11 @@
 
 ### 🏢 Work Experience
 
-<img align="right" width="88" src="https://i.ibb.co/CpvpVfGP/shot-Easy-screencapture-electronshub-lovestoblog-com.png" />
+<img align="right" width="88" src=/" />
 
 - [My Personal Portfolio](https://anujcooks.github.io/About-Me/)    &nbsp;&nbsp; &nbsp; &nbsp;     📌 2025
-  - Position: Mern Developer
-  - Responsibilities: Various tasks
+  - Full Stack Web Dev
   - Techstack: MERN
-
-<img align="right" width="88" src="https://i.ibb.co/fY4ryhZW/newsymo.png" />
 
 </td></tr>
 
