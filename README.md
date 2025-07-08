@@ -96,7 +96,7 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://i.ibb.co/rRWCTq1m/githubimg.png" />
+<img align="right" width="88" src="https://i.ibb.co/pj67gnZ3/ANUJ2-1.jpg" />
 
 <p>&emsp;&emsp;Hi, I am Anuj. I love programming, photography, reading, and traveling.</p>
 <p>&emsp;&emsp;I am passionate about computer science and IT, aiming to become an excellent developer.</p>
