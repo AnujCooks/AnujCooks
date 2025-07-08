@@ -1,5 +1,5 @@
 <div align="left">
-  <img height="300" src="https://ibb.co/xtxfpYTx"  />
+  <img height="300" src="https://i.ibb.co/MxFGYf0F/Anuj-Thumbnanil.png"  />
 </div>
 
 ###
