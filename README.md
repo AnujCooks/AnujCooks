@@ -116,6 +116,3 @@
 <tr><td>
 
 </table>
-
-?branch=[![Netlify Status](https://api.netlify.com/api/v1/badges/1aed2188-0655-467f-a25f-f66fef84bba1/deploy-status)](https://app.netlify.com/projects/mietnoteshub/deploys)
-
